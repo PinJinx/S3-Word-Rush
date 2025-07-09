@@ -36,9 +36,12 @@ With every correct answer, the intensity builds, pushing reflexes, logic, and vo
 
 ### ✅ **Points to Remember**
 
-* The app must contain **at least 2 screens**.
-* Use only the words from the **provided word list** in the repository.
+* The app must contain **at least 2 screens**(Gameover/Winining Screen and Game Screen).
+* Read the words from the **provided word list** in the repository.
+* The words **difficulty must increase** as the game progresses.
+* Each round a **hint** thats given in the file must be provided along with the words.
 * Even if you don’t implement a high score system, **track and display the player's score** at the end of the round.
+* Words must not repeat during a playthrough and the user must be redirected to Win screen once you go through all the words
 
 ---
 
