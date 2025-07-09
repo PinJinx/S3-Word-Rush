@@ -36,12 +36,26 @@ With every correct answer, the intensity builds, pushing reflexes, logic, and vo
 
 ### ✅ **Points to Remember**
 
-* The app must contain **at least 2 screens**(Gameover/Winining Screen and Game Screen).
-* Read the words from the **provided word list** in the repository.
-* The words **difficulty must increase** as the game progresses.
-* Each round a **hint** thats given in the file must be provided along with the words.
-* Even if you don’t implement a high score system, **track and display the player's score** at the end of the round.
-* Words must not repeat during a playthrough and the user must be redirected to Win screen once you go through all the words
+* The app must contain **at least 2 screens**:
+
+  * **Game Screen** (where the player plays the game)
+  * **Game Over / Winning Screen** (to show final score and result)
+
+* The app must **read words** from the **provided JSON word list**.
+
+* The **difficulty must increase** as the game progresses:
+
+  * Start with **easy** words (`apple` to `planet`)
+  * Then move to **medium** words (`garden` to `mountain`)
+  * Finish with **hard** words (`astronomy` to `civilization`)
+
+* For each word, show the **hint** from the word list to help the player.
+
+* Track the **player’s score** throughout the game and display it on the **Game Over / Winning Screen**, even if you don’t build a high score system.
+
+* **Words must not repeat** during a single playthrough.
+
+* Once all **30 words** are used, redirect the player to the **Winning Screen** automatically.
 
 ---
 
