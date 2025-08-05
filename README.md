@@ -36,6 +36,8 @@ With every correct answer, the intensity builds, pushing reflexes, logic, and vo
 
 ### ✅ **Points to Remember**
 
+* The app must be made using **Flutter**.
+
 * The app must contain **at least 2 screens**:
 
   * **Game Screen** (where the player plays the game)
@@ -66,3 +68,6 @@ Want to make Sarah proud and impress the judges? Here are a few bonus objectives
 * 🏆 **Track and store a high score** locally on the device
 * 🔊 **Add sound effects and background music** to liven up the experience
 * 🎨 **Beautify the app’s UI** — a clean look, some fun transitions.
+
+---
+#### Resources
