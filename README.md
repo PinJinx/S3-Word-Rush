@@ -71,3 +71,5 @@ Want to make Sarah proud and impress the judges? Here are a few bonus objectives
 
 ---
 #### Resources
+- [Flutter Docs](https://docs.flutter.dev/)
+- [Installation Guide](https://www.dhiwise.com/post/a-step-by-step-guide-to-installing-and-configuring-flutter)
