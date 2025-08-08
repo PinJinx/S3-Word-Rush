@@ -1,4 +1,4 @@
-# **Sarah's Ultimate Challenge: Word Rush Training**
+# **Flutter Task: Word Rush**
 
 Sarah, a brilliant young coder with dreams bigger than her small apartment, clutched her brand-new smartphone with trembling fingers. Just yesterday, she'd bought it using money saved from countless coding projects. After excitedly texting all her friends about the purchase, she stumbled upon something that would change everything.
 
@@ -32,6 +32,7 @@ The goal?
 
 With every correct answer, the intensity builds, pushing reflexes, logic, and vocabulary to the limit. If Sarah wants to beat Julie, she’ll need more than skill—she’ll need relentless practice. And with **Word Rush**, she just might have a fighting chance.
 
+[Here is a demo video for the app] (<https://drive.google.com/file/d/1TagBZyptUNzwidoVnse270665_ddPmhZ/view?usp=sharing>)
 ---
 
 ### ✅ **Points to Remember**
