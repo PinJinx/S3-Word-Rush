@@ -33,6 +33,8 @@ The goal?
 With every correct answer, the intensity builds, pushing reflexes, logic, and vocabulary to the limit. If Sarah wants to beat Julie, she’ll need more than skill—she’ll need relentless practice. And with **Word Rush**, she just might have a fighting chance.
 
 [Here is a demo video for the app](https://drive.google.com/file/d/1TagBZyptUNzwidoVnse270665_ddPmhZ/view?usp=sharing)
+
+
 ---
 
 ### ✅ **Points to Remember**
